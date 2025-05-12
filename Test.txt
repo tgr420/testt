@@ -1,0 +1,2 @@
+`"bot_token2": "xoxb-263594206564-2343594206574-FGqddMF8t08v8N7Oq4i57vs1MBS"`, // gitleaks:allow
+		`"bot_token3": "xoxb-4614724432022-5152386766518-O5WzjWGLG0wcCm2WPrjEmnys"`,   // gitleaks:allow
